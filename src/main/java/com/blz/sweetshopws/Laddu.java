@@ -1,6 +1,6 @@
 package com.blz.sweetshopws;
 
-public class Laddu extends Sweet {
+public class Laddu extends Sweet implements IDiet {
 
     public Laddu() {
 

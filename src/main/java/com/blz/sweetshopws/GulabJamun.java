@@ -1,6 +1,6 @@
 package com.blz.sweetshopws;
 
-public class GulabJamun extends Sweet {
+public class GulabJamun extends Sweet implements INormal {
 
     public GulabJamun() {
 

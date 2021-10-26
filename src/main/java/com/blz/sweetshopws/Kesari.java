@@ -1,6 +1,6 @@
 package com.blz.sweetshopws;
 
-public class Kesari extends Sweet {
+public class Kesari extends Sweet implements INormal {
 
     public Kesari() {
 

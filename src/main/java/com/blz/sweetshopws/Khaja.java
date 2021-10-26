@@ -1,6 +1,6 @@
 package com.blz.sweetshopws;
 
-public class Khaja extends Sweet {
+public class Khaja extends Sweet implements INormal {
 
     public Khaja() {
 
